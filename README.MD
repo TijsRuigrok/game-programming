@@ -1,2 +1,2 @@
 Opdrachten voor de Game Programming klassen.
-Resultaten staan in de main branche.
+De resultaten van Tijs en Lars staan in hun eigen branches.
