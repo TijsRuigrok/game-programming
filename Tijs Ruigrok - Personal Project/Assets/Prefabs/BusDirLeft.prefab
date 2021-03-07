@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 262872519440919008}
   - component: {fileID: 262872519440919009}
   - component: {fileID: 262872519440919010}
-  - component: {fileID: 114862699894754516}
+  - component: {fileID: 114705613234413474}
   m_Layer: 0
   m_Name: BusDirLeft
   m_TagString: Untagged
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3eae306d1c4181419b03eefb9e6914a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114862699894754516
+--- !u!114 &114705613234413474
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 262872519440919019}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5edf881eae4126d41a57dfd7eba3fede, type: 3}
+  m_Script: {fileID: 11500000, guid: 513bfd16e5a59424e865e61547b0c017, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &2955247146065426070
@@ -171,7 +171,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 445260, guid: d7bf18dd20422304ea868e95c3518f19, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2.47
       objectReference: {fileID: 0}
     - target: {fileID: 445260, guid: d7bf18dd20422304ea868e95c3518f19, type: 3}
       propertyPath: m_LocalRotation.x
